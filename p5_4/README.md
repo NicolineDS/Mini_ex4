@@ -26,3 +26,4 @@ knowing what is happening in the world. My program is therefore a symbol of a us
 who is trying to leave social media but can’t because it has become an addiction.
 
 
+![alt tekst](https://github.com/NicolineDS/Mini_ex4/blob/master/SocialMediaMaze.png?raw=true)
